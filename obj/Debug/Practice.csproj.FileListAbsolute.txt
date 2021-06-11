@@ -1,0 +1,7 @@
+C:\Users\Миша_MSI\source\repos\Practice\bin\Debug\Practice.exe.config
+C:\Users\Миша_MSI\source\repos\Practice\bin\Debug\Practice.exe
+C:\Users\Миша_MSI\source\repos\Practice\bin\Debug\Practice.pdb
+C:\Users\Миша_MSI\source\repos\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\Миша_MSI\source\repos\Practice\obj\Debug\Practice.exe
+C:\Users\Миша_MSI\source\repos\Practice\obj\Debug\Practice.pdb
+C:\Users\Миша_MSI\source\repos\Practice\obj\Debug\Practice.csprojAssemblyReference.cache

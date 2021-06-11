@@ -1,0 +1,12 @@
+C:\Users\Миша_MSI\source\repos\PracticeBL\bin\Debug\PracticeBL.dll
+C:\Users\Миша_MSI\source\repos\PracticeBL\bin\Debug\PracticeBL.pdb
+C:\Users\Миша_MSI\source\repos\PracticeBL\obj\Debug\PracticeBL.csproj.CoreCompileInputs.cache
+C:\Users\Миша_MSI\source\repos\PracticeBL\obj\Debug\PracticeBL.dll
+C:\Users\Миша_MSI\source\repos\PracticeBL\obj\Debug\PracticeBL.pdb
+C:\Users\Миша_MSI\source\repos\PracticeBL\obj\Debug\PracticeBL.csprojAssemblyReference.cache
+C:\Users\Миша_MSI\source\repos\PracticeBL\bin\Debug\PracticeBL.dll.config
+C:\Users\Миша_MSI\source\repos\PracticeBL\bin\Debug\EntityFramework.dll
+C:\Users\Миша_MSI\source\repos\PracticeBL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Миша_MSI\source\repos\PracticeBL\bin\Debug\EntityFramework.xml
+C:\Users\Миша_MSI\source\repos\PracticeBL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Миша_MSI\source\repos\PracticeBL\obj\Debug\PracticeBL.csproj.CopyComplete
