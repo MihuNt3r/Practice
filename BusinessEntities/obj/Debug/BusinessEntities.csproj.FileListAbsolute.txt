@@ -1,0 +1,6 @@
+C:\Users\Миша_MSI\source\repos\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\Миша_MSI\source\repos\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\Миша_MSI\source\repos\BusinessEntities\obj\Debug\BusinessEntities.csproj.AssemblyReference.cache
+C:\Users\Миша_MSI\source\repos\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\Миша_MSI\source\repos\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\Миша_MSI\source\repos\BusinessEntities\obj\Debug\BusinessEntities.pdb
